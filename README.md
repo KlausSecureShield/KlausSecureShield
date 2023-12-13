@@ -1,4 +1,4 @@
-<h1>Hi, I'm Klaus! A Cybersecurity Analyst in Atlanta, GA </h1>
+<h1>Hi, I'm Klaus! Cybersecurity Analyst Professional in Atlanta, GA </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
