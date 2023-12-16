@@ -1,7 +1,7 @@
 <h1>Hi, I'm Klaus! <br/><a href="https://www.linkedin.com/in/klaussecops-ln/">Cybersecurity Analyst Professional</a></h1>
 If you have any questions, need assistance, or want to discuss cybersecurity topics, feel free to reach out. I'm here to help.
 
-Check out my Cybersecurity Portfolio in link below.
+Check out my Cybersecurity Portfolio in the link below.
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
